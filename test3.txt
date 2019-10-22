@@ -1,6 +1,2 @@
-day la test3
-<<<<<<< HEAD
+day la test
 da edit
-=======
->>>>>>> cc640b98c6ee10441a71db38c62d0bd6f5fc972f
-
